@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👨‍💻 Marcos Corrêa
 
-<!--
-**marcospaulocorrea123-wq/marcospaulocorrea123-wq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Sobre mim
+Sou técnico com experiência em manutenção eletromecânica e desenvolvimento de soluções tecnológicas. Atuo com sistemas embarcados, energia solar e automação.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias
+
+![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white)
+![Autodesk Inventor](https://img.shields.io/badge/Autodesk%20Inventor-red)
+![Office](https://img.shields.io/badge/Office-Excel%20%7C%20Word%20%7C%20Access-blue)
+![GitHub](https://img.shields.io/badge/GitHub-black)
+
+---
+
+## 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Marcos-blue?logo=linkedin)](https://www.linkedin.com/in/mpcorrea2021)
+
+[![Gmail](https://img.shields.io/badge/Gmail-Contato-red?logo=gmail)](mailto:marcospaulocorrea123@gmail.com)
+
+---
+
+## 🎯 Objetivo
+
+Atuar com tecnologia, automação e sistemas inteligentes.
