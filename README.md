@@ -7,11 +7,9 @@ Sou técnico com experiência em manutenção eletromecânica e desenvolvimento 
 
 ## 🛠️ Tecnologias
 
-![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white)
-![Autodesk Inventor](https://img.shields.io/badge/Autodesk%20Inventor-red)
-![Office](https://img.shields.io/badge/Office-Excel%20%7C%20Word%20%7C%20Access-blue)
-![GitHub](https://img.shields.io/badge/GitHub-black)
-
+[Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ---
 
 ## 📫 Contato
