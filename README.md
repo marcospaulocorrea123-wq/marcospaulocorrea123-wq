@@ -15,8 +15,7 @@ Sou técnico com experiência em manutenção eletromecânica e desenvolvimento 
 ---
 
 ## 📫 Contato
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Marcos-blue?logo=linkedin)](https://www.linkedin.com/in/mpcorrea2021)
+www.linkedin.com/in/marcos-correa-b4770a3b8
 
 [![Gmail](https://img.shields.io/badge/Gmail-Contato-red?logo=gmail)](mailto:marcospaulocorrea123@gmail.com)
 
