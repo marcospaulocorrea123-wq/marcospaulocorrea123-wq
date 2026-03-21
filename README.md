@@ -22,9 +22,9 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"> 
 </div> 
 
-## Como me encontrar 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-
-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-correa-b4770a3b8/)   
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-
-badge&logo=gmail&logoColor=white)](mailto:SEU-EMAIL@gmail.com)   
+## Contato
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Marcos-blue?logo=linkedin)](https:// www.linkedin.com/in/marcos-correa-b4770a3b8)
+
+[![Gmail](https://img.shields.io/badge/Gmail-Contato-red?logo=gmail)](mailto:marcospaulocorrea123@gmail.com)
+   
 
