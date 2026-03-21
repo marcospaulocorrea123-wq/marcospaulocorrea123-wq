@@ -1,9 +1,10 @@
 # Olá sou Marcos Correa
 
 ## 🚀 Sobre mim
--Técnico Mecânico
+- Técnico Mecânico
 - Agora Estou Estudando Desenvolvimento de Sistemas em Phyton, HTML e CSS.
-- Contato: mpcorrea
+- Contato: mpcorrea2021@outlook.com
+  
 
 ## 🛠️ Tecnologias
 
@@ -16,7 +17,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Marcos-blue?logo=linkedin)](https://www.linkedin.com/in/mpcorrea2021)
 
-[![Gmail](https://img.shields.io/badge/Gmail-Contato-red?logo=gmail)](mailto:marcospaulocorrea123@gmail.com)
 
 
 
