@@ -4,7 +4,7 @@
 
 - Estudante de Desenvolvimento de Sistemas
 - Focado em Phyton, HTML e CSS.
-- Contato: mpcorrea2021@outlook.com
+- Contato: marcospaulocorrea123@gmail.com
   
 
 ## 🛠️ Tecnologias
