@@ -1,9 +1,9 @@
-# 👨‍💻 Marcos Corrêa
+# Olá sou Marcos Correa
 
 ## 🚀 Sobre mim
-Sou técnico com experiência em manutenção eletromecânica e desenvolvimento de soluções tecnológicas. Atuo com sistemas embarcados, energia solar e automação.
-
----
+-Técnico Mecânico
+- Agora Estou Estudando Desenvolvimento de Sistemas em Phyton, HTML e CSS.
+- Contato: mpcorrea
 
 ## 🛠️ Tecnologias
 
@@ -12,14 +12,11 @@ Sou técnico com experiência em manutenção eletromecânica e desenvolvimento 
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ---
 
-## 📫 Contato
+## 📫 Redes profissionais
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Marcos-blue?logo=linkedin)](https://www.linkedin.com/in/mpcorrea2021)
 
 [![Gmail](https://img.shields.io/badge/Gmail-Contato-red?logo=gmail)](mailto:marcospaulocorrea123@gmail.com)
 
----
 
-## 🎯 Objetivo
 
-Atuar com tecnologia, automação e sistemas inteligentes.
