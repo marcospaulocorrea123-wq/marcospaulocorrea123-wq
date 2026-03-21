@@ -23,8 +23,13 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.s
 </div> 
 
 ## Contato
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Marcos-blue?logo=linkedin)](https:// www.linkedin.com/in/marcos-correa-b4770a3b8)
+<p align="center">
+  <a href="https://www.linkedin.com/in/marcos-correa-b4770a3b8">
+    <img src="https://img.shields.io/badge/LinkedIn-Marcos%20Corrêa-blue?logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:marcospaulocorrea123@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-marcospaulocorrea123%40gmail.com-red?logo=gmail&logoColor=white">
+  </a>
+</p>
 
-[![Gmail](https://img.shields.io/badge/Gmail-Contato-red?logo=gmail)](mailto:marcospaulocorrea123@gmail.com)
-   
-
+---
